@@ -20,7 +20,7 @@ public class Coin : MonoBehaviour
     {
         if (collision.gameObject.name == "Bird")
         {
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
         }
     }
 }
